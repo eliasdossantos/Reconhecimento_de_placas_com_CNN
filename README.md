@@ -1,1 +1,1 @@
-# Reconhecimento_de_placas_com_CNN
+# Reconhecimento de placas com CNN
